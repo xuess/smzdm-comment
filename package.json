@@ -1,0 +1,19 @@
+{
+  "name": "smzdm-comment",
+  "version": "1.0.0",
+  "description": "什么值得买盖楼神器",
+  "main": "smzdm.js",
+  "scripts": {
+    "dev": "node smzdm.js"
+  },
+  "keywords": [
+    "node",
+    "smzdm"
+  ],
+  "author": "xuess <wuniu2010@126.com>",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
